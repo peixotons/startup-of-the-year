@@ -1,1 +1,1 @@
-# startup-of-the-year
+# Newsletter desenvolvida em HTML CSS e Bootstrap 
